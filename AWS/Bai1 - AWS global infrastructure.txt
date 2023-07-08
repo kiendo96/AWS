@@ -26,7 +26,10 @@
 
 #>Edge location
 - Used as nodes of a global content delivery network(CDN)
-(Được sử dụng như 1 node của 1 mạng lưới )
+(Được sử dụng như 1 node của 1 mạng lưới ) => Mỗi Edge  location được coi như 1 node 
 - Utilized by Amazone CloudFont and Amazone Route 53
+(được sử dụng bởi Amazone Cloudfront và amazone route 53)
 - Located globally at over 200 different locations
+(Có mặt trên toàn cầu tại hơn 200 điểm khác nhau)
 - Allows AWS to serve content from locations closest to users
+(Cho phép AWS phân phối content từ các địa điểm gần người dùng nhất)
