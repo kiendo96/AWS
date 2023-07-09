@@ -1,2 +1,0 @@
-----Architecting for availability-----
-- Reliability or resilieny
